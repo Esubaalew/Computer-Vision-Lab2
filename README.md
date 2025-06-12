@@ -9,5 +9,8 @@ This repository contains a collection of Octave scripts for various image proces
 3.  **`grayscale_methods.m`**: Converts a color image to grayscale using Average, Luminosity, and Desaturation methods.
 4.  **`cropImage.m`**: Function to crop a rectangular region from an image.
     *   **Demo:** `demo_crop.m` (marked as `% 4 demo for 4`) demonstrates usage of `cropImage.m`.
+5.  **`interpolation_comparison.m`**: Compares Nearest Neighbor, Bilinear, and Bicubic interpolation for image resizing.
+6.  **`rotateImage.m`**: Function to rotate an image by a specified angle, adjusting canvas size.
+    *   **Demo:** `demo_rotate.m` (marked as `% 6 demo for 6`) demonstrates usage of `rotateImage.m`.
 
 ---

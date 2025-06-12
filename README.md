@@ -12,5 +12,6 @@ This repository contains a collection of Octave scripts for various image proces
 5.  **`interpolation_comparison.m`**: Compares Nearest Neighbor, Bilinear, and Bicubic interpolation for image resizing.
 6.  **`rotateImage.m`**: Function to rotate an image by a specified angle, adjusting canvas size.
     *   **Demo:** `demo_rotate.m` (marked as `% 6 demo for 6`) demonstrates usage of `rotateImage.m`.
+7.  **`download_images.m`**: Downloads images from a list of URLs and displays them.
 
 ---

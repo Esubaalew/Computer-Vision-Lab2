@@ -66,7 +66,7 @@ fprintf('Conversions complete. Displaying results.\n');
 
 % Comparison ---
 figure('Name', 'Grayscale Conversion Comparison', 'NumberTitle', 'off');
-% sgtitle('Comparison of Grayscale Conversion Methods'); % Commented out as sgtitle might not be available
+
 
 % Original Image
 subplot(2, 2, 1);

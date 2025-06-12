@@ -1,3 +1,5 @@
+% 1
+%
 function importAndDisplayImages(directoryPath)
   % importAndDisplayImages - Imports and displays multiple images from a directory.
   %

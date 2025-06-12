@@ -1,3 +1,5 @@
+% 3
+%
 % grayscale_methods.m - Implements and compares different grayscale conversion methods.
 %
 % This script loads a color image and converts it to grayscale using three

@@ -1,3 +1,5 @@
+% 2
+%
 % resize_script.m - Resizes an image to fit within specified dimensions
 % while maintaining the original aspect ratio.
 %

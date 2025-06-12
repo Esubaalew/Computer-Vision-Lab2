@@ -68,7 +68,7 @@ title(sprintf('Resized (%d x %d)', new_width, new_height));
 axis on;
 
 
-suptitle('Original vs. Resized Image');
+
 
 fprintf('--- Comparison Notes ---\n');
 disp('See the generated figure for a visual comparison.');

@@ -1,6 +1,7 @@
+% 4
+%
 function croppedImage = cropImage(inputImage, cropRegion)
-  % 4
-  %
+
   % cropImage - Crops an image to a specified rectangular region.
   %
   % This function extracts a sub-image from a larger image based on the

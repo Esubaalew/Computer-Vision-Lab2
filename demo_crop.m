@@ -1,5 +1,4 @@
-      
-% 4
+% 4 demo for 4
 %
 % demo_crop.m - A script to demonstrate the use of the cropImage function.
 
